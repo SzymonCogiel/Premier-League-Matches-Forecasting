@@ -17,7 +17,7 @@ def split_data(df: pd.DataFrame, parameters: Dict) -> Tuple:
     Returns:
         Split data.
     """
-    X = df.drop(columns=["FTR", "Date"]).copy()
+    X = df.drop(columns=["FTR", "FTHG", "FTAG", "Date"]).copy()
     y = df["FTR"].copy()
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=parameters["test_size"], random_state=parameters["random_state"]

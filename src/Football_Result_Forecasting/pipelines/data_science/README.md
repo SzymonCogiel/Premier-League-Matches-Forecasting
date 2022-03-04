@@ -1,6 +1,6 @@
 # Pipeline data_science
 
-> *Note:* This is a `README.md` boilerplate generated using `Kedro 0.17.7`.
+> Modular pipeline for match result prediction
 
 ## Overview
 
@@ -19,3 +19,4 @@ The list of pipeline inputs.
 <!---
 The list of pipeline outputs.
 -->
+
