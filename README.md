@@ -15,7 +15,7 @@ The model has achieved really satisfactory results, considering that the complet
 
 
 List of pipeline nodes with a description:
-- [Combined Seasons]()
+- [Combined Seasons](https://github.com/SzymonCogiel/Premier-League-Matches-Forecasting/blob/master/src/date%20set%20connector/data_combinated_file.py)
 
 - [Preprocess Categorical Node](https://github.com/SzymonCogiel/Premier-League-Matches-Forecasting/tree/master/src/Football_Result_Forecasting/pipelines/data_processing)
 
