@@ -9,13 +9,13 @@ Please describe your modular pipeline here.
 -->
 
 ## Pipeline inputs
-
+- preprocessed and cleaned dataset
 <!---
 The list of pipeline inputs.
 -->
 
 ## Pipeline outputs
-
+- predicted match result
 <!---
 The list of pipeline outputs.
 -->
