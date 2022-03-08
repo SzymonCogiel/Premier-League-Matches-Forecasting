@@ -4,6 +4,7 @@ This folder should be used to store configuration files used by Kedro or by sepa
 
 ## Instructions
 Set the pipeline parameters in the data_science.yml file.
+
 In the catalog.yml file we add our data sets to the pipeline.
 
 
